@@ -1,0 +1,8 @@
+# wirtualne środowisko
+.venv/
+
+# katalogi i pliki phytona
+__pycache_
+
+# pliki systemowe
+Thumbs.db
